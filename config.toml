@@ -33,3 +33,4 @@ enableRobotsTXT = true
   recent_posts_number = 2
   
   titre_h1 = "Organisation"
+  capture_ecran = "/images/capture.PNG"
